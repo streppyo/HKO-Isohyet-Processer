@@ -29,3 +29,13 @@ Processed:
 - host.py
 
 The Flask wrapper that call the program in main.py and responses to GET requests
+
+## Deployment
+
+Endpoint
+
+http://gpstrack.streppyo.work/weather/isohyet?date=MMDD (please replace MMDD with any date in the last 90 days)
+
+Interactive Map
+
+http://gpstrack.streppyo.work/weathermap
